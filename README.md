@@ -3,6 +3,8 @@ addcron
 
 A simple Cron job adder, with automatic checking to avoid duplicates
 
+This is mainly an excerpt from the OAMPS script, but it can be used for all purposes, not only game servers.
+
 License
 -------
 This script is licensed under MIT license.
