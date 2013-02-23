@@ -16,7 +16,7 @@ Stephen Larroque
 Usage
 -----
 
-    Usage: sh $SCRIPTNAME 'crondate' 'crontask' [OPTION]...
+    Usage: ./$SCRIPTNAME 'crondate' 'crontask' [OPTION]...
     Add only once a cron job to execute the specified crontask at a specified crondate interval. Will automatically check for duplicates, so that it will never add twice the same job inside cron.
 
     WARNING: only use absolute paths, else cron may not be able to execute the task, and also the check for duplicates will fail.
